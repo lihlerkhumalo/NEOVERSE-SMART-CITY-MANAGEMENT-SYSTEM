@@ -1,0 +1,15 @@
+=================================
+      NEOVERSE CITY REPORT
+=================================
+
+Power Grid Status : ONLINE
+Transport Status  : ONLINE
+Health Status     : ONLINE
+Security Status   : ONLINE
+
+Pending Events    : 2
+Emergency Alerts  : 1
+Highest Sensor Reading : 99
+Lowest Sensor Reading  : 72
+
+Overall Status : STABLE
